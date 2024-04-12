@@ -10,3 +10,7 @@ pip install -r requirements.txt
 
 ### ❌Copyright❌
 👩‍💻**Husk nu ikke og udgiv dig for at have lavet den**👩‍💻
+
+
+## Credits
+- Lavet af [GoT Flamingo🦩](https://github.com/gotflamingodk)
